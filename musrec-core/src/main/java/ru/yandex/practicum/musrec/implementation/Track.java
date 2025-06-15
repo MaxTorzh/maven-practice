@@ -6,6 +6,7 @@ public class Track {
     private String author;
     private int creationYear;
     private int mark;
+    private String string;
 
     public Track(String title, String author, int creationYear) {
         this.title = title;
